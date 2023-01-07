@@ -1,0 +1,8 @@
+.vscode/
+home_work_classes/
+home_work_files/
+home_work_requests/
+kviz/
+venv/
+
+__pycache__/
